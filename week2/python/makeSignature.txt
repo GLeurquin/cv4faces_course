@@ -1,0 +1,4 @@
+First pencilBlend
+Then bilateralFilter
+Then binary threshold with maxValue=255 and thresh = 250+
+medianBlur with high kernel size a few times
